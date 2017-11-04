@@ -9,6 +9,7 @@ def key_for_min_value(name_hash)
       temp_key = key
       temp_value = value
     end
+  end
     temp_key
-    
+
 end
